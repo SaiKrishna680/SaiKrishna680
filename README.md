@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there, I'm Sai Krishna 👋
+I'm a Full Stack Developer passionate about building efficient, user-friendly web applications. I'm also diving into Machine Learning and Data Structures & Algorithms (DSA) to enhance my problem-solving skills.
 
-<!--
-**SaiKrishna680/SaiKrishna680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me:
+🔭 I’m currently exploring Machine Learning and working on DSA problems.
+💻 Full Stack Dev proficient in C++, Java, and Python.
+🌱 Always learning and improving my skills.
+⚡ Tech Stack:
+Languages: C++, Java, Python
+Web Technologies: HTML, CSS, JavaScript, Bootstrap
+Tools: Git, GitHub, VSCode
