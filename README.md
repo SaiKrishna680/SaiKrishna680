@@ -9,5 +9,5 @@ I'm a **Full Stack Developer** passionate about building efficient, user-friendl
 
 ### ⚡ Tech Stack:
 - **Languages:** C++, Java, Python
-- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap
+- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap,react
 - **Tools:** Git, GitHub, VSCode
