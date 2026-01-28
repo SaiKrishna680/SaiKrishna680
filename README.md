@@ -83,7 +83,7 @@ I build **practical, real-world projects** in Machine Learning, Data Analytics, 
 
 ## 🌐 Connect With Me
 
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/your-profile](www.linkedin.com/in/sai-krishna-nooka-a247622a0)
+* 🔗 **LinkedIn:** www.linkedin.com/in/sai-krishna-nooka-a247622a0
 
 
 ---
