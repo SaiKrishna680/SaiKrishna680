@@ -47,11 +47,6 @@ I build **practical, real-world projects** in Machine Learning, Data Analytics, 
 * SMOTE for class imbalance
 * Model comparison (Decision Tree, Random Forest, XGBoost)
 * Evaluation using ROC-AUC & feature importance
-
-🖼️ *Sample Output*
-
-![Churn Prediction](https://user-images.githubusercontent.com/placeholder/churn.png)
-
 ---
 
 ### 🔹 Emotion Detection & Music Recommendation System
@@ -63,10 +58,6 @@ I build **practical, real-world projects** in Machine Learning, Data Analytics, 
 * Facial emotion recognition using CNN
 * OpenCV-based real-time detection
 * Emotion-aware music playback
-
-🖼️ *System Preview*
-
-![Emotion Music](https://user-images.githubusercontent.com/placeholder/emotion.png)
 
 ---
 
@@ -92,8 +83,8 @@ I build **practical, real-world projects** in Machine Learning, Data Analytics, 
 
 ## 🌐 Connect With Me
 
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* 💻 **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/your-profile](www.linkedin.com/in/sai-krishna-nooka-a247622a0)
+
 
 ---
 
