@@ -1,13 +1,100 @@
-### Hi there, I'm Sai Krishna 👋
+# 👋 Hi, I'm Nooka Sai Krishna
 
-I'm a **Full Stack Developer** passionate about building efficient, user-friendly web applications. I'm also diving into **Machine Learning** and **Data Structures & Algorithms** (DSA) to enhance my problem-solving skills.
+🎓 Computer Science Undergraduate | 🤖 AI & Machine Learning Enthusiast | 💻 Software Developer
 
-### 🚀 About Me:
-- 🔭 I’m currently exploring **Machine Learning** and working on DSA problems.
-- 💻 Full Stack Dev proficient in **C++**, **Java**, and **Python**.
-- 🌱 Always learning and improving my skills.
+I build **practical, real-world projects** in Machine Learning, Data Analytics, and Computer Vision, focusing on clean code, solid fundamentals, and meaningful outcomes.
 
-### ⚡ Tech Stack:
-- **Languages:** C++, Java, Python
-- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap,react
-- **Tools:** Git, GitHub, VSCode
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### Machine Learning & Data
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+</p>
+
+### Computer Vision & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Customer Churn Prediction (Machine Learning)
+
+📌 Predicts customer churn using supervised ML models and business-driven analysis.
+
+**Highlights:**
+
+* Data preprocessing & EDA
+* SMOTE for class imbalance
+* Model comparison (Decision Tree, Random Forest, XGBoost)
+* Evaluation using ROC-AUC & feature importance
+
+🖼️ *Sample Output*
+
+![Churn Prediction](https://user-images.githubusercontent.com/placeholder/churn.png)
+
+---
+
+### 🔹 Emotion Detection & Music Recommendation System
+
+📌 Detects facial emotions in real time and plays mood-based music.
+
+**Highlights:**
+
+* Facial emotion recognition using CNN
+* OpenCV-based real-time detection
+* Emotion-aware music playback
+
+🖼️ *System Preview*
+
+![Emotion Music](https://user-images.githubusercontent.com/placeholder/emotion.png)
+
+---
+
+### 🔹 Gesture & Voice Controlled Brightness System
+
+📌 Hands-free system to control screen brightness using gestures, voice, and face distance.
+
+**Highlights:**
+
+* MediaPipe hand tracking
+* Speech-based commands
+* Accessibility-focused design
+
+---
+
+## 🎯 What I’m Currently Focusing On
+
+* Strengthening Machine Learning fundamentals
+* Building scalable AI-driven applications
+* Exploring cloud & deployment basics
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+* 💻 **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+
+---
+
+⭐ *Feel free to explore my repositories and star anything you find useful!*
