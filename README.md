@@ -1,91 +1,35 @@
-# 👋 Hi, I'm Nooka Sai Krishna
+<!-- ======================= HEADER ======================= -->
 
-🎓 Computer Science Undergraduate | 🤖 AI & Machine Learning Enthusiast | 💻 Software Developer
+<div align="center">
 
-I build **practical, real-world projects** in Machine Learning, Data Analytics, and Computer Vision, focusing on clean code, solid fundamentals, and meaningful outcomes.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sai%20Krishna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Machine%20Learning%20%7C%20Cloud&descAlignY=60&descSize=18" width="100%"/>
 
----
+</div>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Programming Languages
+### Building intelligent systems with AI, Generative AI & Cloud
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</p>
+<a href="https://github.com/SaiKrishna680">
+  <img src="https://komarev.com/ghpvc/?username=SaiKrishna680&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views"/>
+</a>
 
-### Machine Learning & Data
+<a href="https://github.com/SaiKrishna680?tab=followers">
+  <img src="https://img.shields.io/github/followers/SaiKrishna680?label=Followers&style=flat&color=06B6D4" alt="GitHub Followers"/>
+</a>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-</p>
-
-### Computer Vision & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About Me
 
-### 🔹 Customer Churn Prediction (Machine Learning)
+I'm **Sai Krishna**, a Computer Science undergraduate passionate about building **AI-powered, intelligent and scalable systems**.
 
-📌 Predicts customer churn using supervised ML models and business-driven analysis.
+My current focus is on going deeper into **Machine Learning and Artificial Intelligence**, while exploring how **Generative AI, RAG, cloud infrastructure, and full-stack engineering** can come together to build real-world applications.
 
-**Highlights:**
-
-* Data preprocessing & EDA
-* SMOTE for class imbalance
-* Model comparison (Decision Tree, Random Forest, XGBoost)
-* Evaluation using ROC-AUC & feature importance
----
-
-### 🔹 Emotion Detection & Music Recommendation System
-
-📌 Detects facial emotions in real time and plays mood-based music.
-
-**Highlights:**
-
-* Facial emotion recognition using CNN
-* OpenCV-based real-time detection
-* Emotion-aware music playback
-
----
-
-### 🔹 Gesture & Voice Controlled Brightness System
-
-📌 Hands-free system to control screen brightness using gestures, voice, and face distance.
-
-**Highlights:**
-
-* MediaPipe hand tracking
-* Speech-based commands
-* Accessibility-focused design
-
----
-
-## 🎯 What I’m Currently Focusing On
-
-* Strengthening Machine Learning fundamentals
-* Building scalable AI-driven applications
-* Exploring cloud & deployment basics
-
----
-
-## 🌐 Connect With Me
-
-* 🔗 **LinkedIn:** www.linkedin.com/in/sai-krishna-nooka-a247622a0
-
-
----
-
-⭐ *Feel free to explore my repositories and star anything you find useful!*
+```text
+AI / ML              ████████████████████░   Deepening
+Generative AI / RAG  ██████████████████░░░   Building
+Cloud / AWS          ████████████████░░░░░   Exploring
+Full-Stack           ███████████████░░░░░░   Building
