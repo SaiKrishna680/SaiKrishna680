@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Final-year+CSE+Undergrad;Machine+Learning+%7C+Generative+AI;Full-Stack+%7C+Cloud+%26+DevOps;Open+to+Full-Time+%26+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&speed=30&pause=500&color=2563EB&center=true&vCenter=true&width=650&lines=Final-year+CSE+Undergrad;Machine+Learning+%7C+Generative+AI;Full-Stack+%7C+Cloud+%26+DevOps;Open+to+Full-Time+%26+Internships" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -30,13 +30,11 @@
 
 ## 👋 About Me
 
-I'm **Sai Krishna**, a final-year **B.Tech Computer Science & Engineering** student at **SRM Institute of Science and Technology** &nbsp; <img src="https://img.shields.io/badge/CGPA-9.05%2F10-06B6D4?style=flat-square"/>
+I'm **Sai Krishna**, a final-year **B.Tech Computer Science & Engineering** undergraduate at **SRM Institute of Science and Technology** &nbsp; <img src="https://img.shields.io/badge/CGPA-9.13%2F10-06B6D4?style=flat-square"/>
 
 I build across the full stack of a modern software/AI problem — from training and evaluating ML models, to building Generative AI and RAG systems, to shipping full-stack web applications, to deploying and running all of it reliably with Docker, Kubernetes, and AWS.
 
 I like owning a problem end-to-end: understand it, build a working solution, and get it running in production-like conditions rather than leaving it as a notebook.
-
-🔭 **Currently:** AI & ML Intern @ Infosys Springboard &nbsp;·&nbsp; Technical Lead @ Next Gen AI
 
 <br/>
 
@@ -176,7 +174,7 @@ Full-stack MERN application with REST APIs, MongoDB data modeling, and a complet
 ## 🎓 Education & Certifications
 
 **SRM Institute of Science and Technology**
-B.Tech, Computer Science and Engineering — Kattankulathur, Tamil Nadu &nbsp;|&nbsp; CGPA: **9.05 / 10**
+B.Tech, Computer Science and Engineering — Kattankulathur, Tamil Nadu &nbsp;|&nbsp; CGPA: **9.13 / 10**
 
 <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Copilot%20Certified-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Foundations%20Certified-181717?style=flat-square&logo=github&logoColor=white"/>
 
