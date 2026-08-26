@@ -176,36 +176,11 @@ Full-stack MERN application with REST APIs, MongoDB data modeling, and a complet
 **SRM Institute of Science and Technology**
 B.Tech, Computer Science and Engineering — Kattankulathur, Tamil Nadu &nbsp;|&nbsp; CGPA: **9.13 / 10**
 
-<img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Copilot%20Certified-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Foundations%20Certified-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineering-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-Certified%20Solution%20Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Copilot%20Certified-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Foundations%20Certified-181717?style=flat-square&logo=github&logoColor=white"/>
 
 <br/>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiKrishna680&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishna680&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKrishna680&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKrishna680&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
-> These stat cards are served by free community APIs and occasionally load slowly or fail to render — if one looks broken, refresh the page or check back shortly.
-
-<br/>
-
----
-
-<div align="center">
 
 ### 📫 Open to full-time roles and internships — let's connect
 
